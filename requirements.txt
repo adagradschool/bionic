@@ -1,0 +1,4 @@
+beautifulsoup4==4.12.2
+EbookLib==0.17
+soupsieve==2.4.1
+tqdm==4.65.0
